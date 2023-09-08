@@ -1,0 +1,2 @@
+# MultipleFieldsGroupConcatForAccess.vba
+这是一个用在Access中的GroupConcat函数，支持多字段分组、支持排序。
